@@ -6,6 +6,14 @@ API Hypermercado (hypermercado-api)
 
 https://github.com/andrelemos2/hypermercado-api.git
 
+Link API
+==========================
+#Produtos
+https://hypermercado-api.herokuapp.com/v1/produtos
+
+#Carrinho de compras
+https://hypermercado-api.herokuapp.com/v1/produtos/carrinho
+
 Construindo na sua máquina
 ==========================
 
