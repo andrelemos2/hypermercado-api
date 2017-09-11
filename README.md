@@ -27,5 +27,5 @@ Se você quiser ver a aplicação na sua máquina é somente necessário importa
 - Conexão com banco de dados MYSQL (ver arquivo "application.properties").
 
 # Collection V1 Postman para testes
-Hypermercado - API.postman_collection.json
+https://www.getpostman.com/collections/c6bba5ce934c9abe7ae4
 
