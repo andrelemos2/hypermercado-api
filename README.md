@@ -8,10 +8,10 @@ https://github.com/andrelemos2/hypermercado-api.git
 
 Link API
 ==========================
-#Produtos
+# Produtos
 https://hypermercado-api.herokuapp.com/v1/produtos
 
-#Carrinho de compras
+# Carrinho de compras
 https://hypermercado-api.herokuapp.com/v1/produtos/carrinho
 
 Construindo na sua máquina
