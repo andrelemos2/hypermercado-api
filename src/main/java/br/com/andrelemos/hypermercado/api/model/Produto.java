@@ -23,7 +23,7 @@ public class Produto {
 	private BigDecimal valor;
 	
 	@NotNull
-	private String src;
+	private String url;
 	
 	private String observacoes;
 
@@ -54,12 +54,12 @@ public class Produto {
 		this.valor = valor;
 	}
 	
-	public String getSrc() {
-		return src;
+	public String getUrl() {
+		return url;
 	}
 
-	public void setSrc(String src) {
-		this.src = src;
+	public void setSrc(String url) {
+		this.url = url;
 	}
 
 	public String getObservacoes() {
